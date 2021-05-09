@@ -1,2 +1,6 @@
 # Algorithm_Course
-Algorithm Course By Java; Code by class
+Algorithm(C++/JAVA) 
+   Programming Contest
+   Algorithm course code
+   oj 
+   
